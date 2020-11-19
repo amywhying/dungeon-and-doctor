@@ -1,9 +1,10 @@
 # Dungeon and Doctor
-Programmers: Cindy Luo, Amy Ying, and Akash Kunchum
 
 [![Game trailer](https://github.com/amywhying/dungeon-and-doctor/blob/master/Screenshot%202020-11-20%20at%204.34.14%20AM.png)](https://www.youtube.com/watch?v=NhFXNU32ZKc&feature=youtu.be)
 
-https://amywhying.itch.io/dungeonanddoctor
+[![Click here to play!](https://amywhying.itch.io/dungeonanddoctor)
+
+Programmers: Cindy Luo, Amy Ying, and Akash Kunchum
 
 ## Instruction
 
