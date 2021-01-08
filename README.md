@@ -4,6 +4,8 @@
 
 [Click here to play](https://amywhying.itch.io/dungeonanddoctor)
 
+NOTE: RECOMMAND PLAYING ON FIREFOX THAN GOOGLE CHROME DUE TO PERFORMANCE ISSUES (See details [here](https://blogs.unity3d.com/2018/09/17/webassembly-load-times-and-performance/)
+
 Programmers: Cindy Luo, Amy Ying, and Akash Kunchum
 
 ## Instruction
